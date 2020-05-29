@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#B-crypt
+echo " "
+
+echo -e '\e[96m»»ᅳInstallingᅳ►'
+
+sleep 1.5
+clear
+echo " "
+apt update && apt upgrade
+
+echo " "
+pkg install nodejs
+echo " "
+npm install -g bash-obfuscate
+echo " "
+
+echo " "
