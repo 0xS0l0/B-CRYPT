@@ -10,7 +10,7 @@ $ apt update
 
 $ apt upgrade 
 
-$apt install git
+$ apt install git
 
 $ git clone https://github.com/solopsy/B-CRYPT.git
 
