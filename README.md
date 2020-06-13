@@ -1,8 +1,8 @@
 # B-CRYPT
 Bash file encripter
 
-![BCRYPT](https://user-images.githubusercontent.com/53935554/83292794-5bb13680-a208-11ea-8e71-ea4b5a3af443.jpg)
 
+![20200613_152713](https://user-images.githubusercontent.com/53935554/84566149-ab593b80-ad8c-11ea-98bc-e28686f7b6dd.jpg
 
 ## Installation and usage 
 
