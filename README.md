@@ -13,7 +13,7 @@ $ apt upgrade
 
 $ apt install git
 
-$ git clone https://github.com/solopsy/B-CRYPT.git
+$ git clone https://github.com/0xS0l0/B-CRYPT.git
 
 $ cd B-CRYPT
 
